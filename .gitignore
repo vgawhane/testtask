@@ -1,0 +1,4 @@
+node_modules
+.DS_STORE
+database.sqlite3
+install_nvm.sh
